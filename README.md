@@ -1,2 +1,2 @@
 # ProfTrack-Project-Management
-ProfTrack: Gestion de projets académiques pour professeurs. Planifiez cours, supervisez projets, suivez recherches. Simplifiez votre vie académique.
+ProfTrack: Academic project management for teachers. Plan lessons, supervise projects, follow research. Simplify your academic life.
